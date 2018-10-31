@@ -1,6 +1,6 @@
 # Data Management Resources
 
-![AST Logo](https://dm-resources.github.com/images/AST-logo.png)
+![AST Logo](./images/AST-logo.png)
 
 Data management workgroup presentations, training topics, and resources.
 
