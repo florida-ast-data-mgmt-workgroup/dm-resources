@@ -1,6 +1,6 @@
 # Data Management Resources
 
-![AST Logo](./images/AST-logo.png)
+![AST Logo](./images/AST-logo-small-jpg)
 
 Data management workgroup presentations, training topics, and resources.
 
